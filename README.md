@@ -44,6 +44,4 @@
 
 [![Email](https://img.shields.io/badge/Email-hawa.demba.ba%40uqam.ca-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hawa.demba.ba@uqam.ca)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hawa%20Demba%20Ba-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hawademba)
-![Hawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahawa04&show_icons=true&theme=radical)
-
 
